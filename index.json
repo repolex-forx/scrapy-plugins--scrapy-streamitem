@@ -1,0 +1,11 @@
+{
+  "org": "scrapy-plugins",
+  "repo": "scrapy-streamitem",
+  "versions": [
+    {
+      "commit": "78ecb9db7109d7b85cbe292413eaca8b78003476",
+      "tag": "",
+      "parsed_at": "2026-10-15T14:50:36.048530+00:00"
+    }
+  ]
+}
